@@ -3,7 +3,7 @@ title: About
 permalink: /about/
 ---
 
-# About
+# About Virtual Robot
 
 This is a [starter template](https://vsoch.github.io/docsy-jekyll/) for a Docsy jekyll theme, based
 on the Beautiful [Docsy](https://github.com/google/docsy) that renders with Hugo. This version is intended for
